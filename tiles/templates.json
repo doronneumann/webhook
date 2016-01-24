@@ -1,0 +1,10 @@
+{
+    "default": {
+        "name": "defaultTemplate",
+        "displayName": "Contains: [Webhooks] ",
+        "description": "Extension UUID 62057dda-0509-4ddd-b68c-d68b3a07aa4c Contains: [Webhooks] ",
+        "tiles": [
+            "Webhooks"
+        ]
+    }
+}
